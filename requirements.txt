@@ -1,0 +1,6 @@
+Flask
+imutils
+numpy
+opencv-python
+cmake
+dlib
